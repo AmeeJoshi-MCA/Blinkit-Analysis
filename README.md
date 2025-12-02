@@ -49,6 +49,11 @@ To generate actionable insights and visual reports using **Power BI dashboards**
 1. Connect to your python tool/softwaree (Jupiter Notebook, Visual studio, pyCharm , etc.).  
 2. Run the python scripts in the [`python/`](https://github.com/AmeeJoshi-MCA/Blinkit-Analysis/blob/main/Python/BlinkitDataAnalysis.ipynb) folder to extract all kpi queries and visuals.
 
+### Excel
+1. Open the [file](https://github.com/AmeeJoshi-MCA/Blinkit-Analysis/blob/main/Excel/BlinkIT%20Grocery%20Data%20Dashboard.xlsx) in Microsoft Excel.
+
+2. Explore dashboards and visualizations.
+
 
  ## ✅ Conclusion
  
